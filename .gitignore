@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+server/.env
+
+# Generated at runtime
+server/data/.ai-cache.json
+server/data/interactions.local.json
+server/dist/
+.vercel
+*.tsbuildinfo
