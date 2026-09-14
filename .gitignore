@@ -10,3 +10,6 @@ server/data/interactions.local.json
 server/dist/
 .vercel
 *.tsbuildinfo
+.env*
+!.env.example
+!server/.env.example
