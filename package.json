@@ -2,6 +2,7 @@
   "name": "micro-crm",
   "private": true,
   "version": "1.0.0",
+  "type": "module",
   "description": "AI-powered micro-CRM take-home",
   "workspaces": [
     "client",
