@@ -1,5 +1,7 @@
 # AI-Powered Micro-CRM
 
+**Live demo: <https://ai-micro-crm.vercel.app>** · Running on Gemini, no setup needed.
+
 A triage tool for a small business owner selling an AI phone-answering product to dental practices. It opens on the question the owner actually has each morning — *who needs me today, and what should I do about them?* — and answers it from the raw interaction notes, with every claim traceable back to the note it came from.
 
 ## Running it
